@@ -4,6 +4,5 @@ request
 chatterbot
 jieba
 BeautifulSoup4
-random
 datetime
 difflib
