@@ -5,4 +5,4 @@ chatterbot
 jieba
 BeautifulSoup4
 datetime
-difflib
+cdifflib
