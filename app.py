@@ -226,4 +226,4 @@ def handle_message(event):
         message = TextSendMessage(text=str(deepThought.get_response(event.message.text)))
         line_bot_api.reply_message(event.reply_token, message)
 if __name__ == "__main__":
-    app.run(debug=False,port=3000)
+    app.run(host='0.0.0.0',port=os.environ['PORT'])
