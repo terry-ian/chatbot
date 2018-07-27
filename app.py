@@ -31,6 +31,7 @@ from bs4 import BeautifulSoup
 from urllib.request import urlretrieve
 from pandas.core.frame import DataFrame
 import pandas
+import os
 ########################################################################################################################
 deepThought = ChatBot("deepThought")
 deepThought.set_trainer(ChatterBotCorpusTrainer)
