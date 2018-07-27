@@ -1,4 +1,3 @@
-nltk
 line-bot-sdk
 Flask
 beautifulsoup4
