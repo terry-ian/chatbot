@@ -1,7 +1,10 @@
 line-bot-sdk
-flask
-request
+Flask
+beautifulsoup4
 chatterbot
+Flask
 jieba
-BeautifulSoup4
-datetime
+pandas
+random2
+ndifflib
+requests
