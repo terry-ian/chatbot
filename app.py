@@ -4,7 +4,7 @@ Created on Mon Apr  2 16:31:45 2018
 
 @author: terry_ian
 """
-
+import nltk
 from flask import Flask, request, abort
 
 from linebot import (
