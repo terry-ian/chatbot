@@ -1,5 +1,6 @@
 line-bot-sdk
 Flask
+numpy
 beautifulsoup4
 chatterbot
 Flask
