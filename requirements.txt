@@ -12,4 +12,5 @@ requests
 Django
 gunicorn
 future
+simplejson
 nltk
