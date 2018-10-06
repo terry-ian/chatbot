@@ -12,4 +12,4 @@ requests
 Django
 gunicorn
 future
-Pipfile
+nltk
