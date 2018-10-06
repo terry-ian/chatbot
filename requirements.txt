@@ -12,5 +12,5 @@ requests
 Django
 gunicorn
 future
-json
+urllib
 nltk
