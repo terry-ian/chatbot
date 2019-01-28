@@ -4,8 +4,8 @@ Created on Mon Apr  2 16:31:45 2018
 
 @author: terry_ian
 """
-import nltk
-nltk.download()
+#import nltk
+form nltk.book import  *
 from flask import Flask, request, abort
 
 from linebot import (
