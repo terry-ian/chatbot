@@ -13,4 +13,4 @@ Django
 gunicorn
 future
 simplejson
-form nltk.book import  *
+nltk
