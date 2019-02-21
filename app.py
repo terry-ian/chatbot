@@ -546,8 +546,8 @@ def handle_message(event):
                     text='請選擇',
                     actions=[
                         MessageAction(
-                            label='開始玩',
-                            text='開始玩'
+                            label='來用我的功能',
+                            text='來用我的功能'
                         ),
                         URIAction(
                             label='網站介紹 Terry_Ian',
