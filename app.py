@@ -519,7 +519,7 @@ def handle_message(event):
                         image_url='https://i.imgur.com/g8zAYMq.jpg',
                         action=URIAction(
                             label='加我好友試玩',
-                            uri='https://line.me/R/ti/p/%40gmy1077x'
+                            uri=' '
                         ),
                     ),
                 ]
