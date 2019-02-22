@@ -541,7 +541,7 @@ def handle_message(event):
         template=CarouselTemplate(
             columns=[
                 CarouselColumn(
-                    thumbnail_image_url='https://00e9e64bac4ce826cf09c8ad2c4416f1038104f3217e925b0f-apidata.googleusercontent.com/download/storage/v1/b/terry-machine-home/o/web%2Fimages%2Fpic01.jpg?qk=AD5uMEs0KiOwtj42b7VD0Qjk0vvV7_B3tQOxLswlsiszxjXYrOsskmswY9j28tXBO1UY3286PLFdA9siar0_8CKQnrxhx1w-DM2f8mSUhS_xPT9KRYSclmom3I0e46NRTPrnYA-zFxKGnqNNS6iB8M9Dn63diA7zSbFUZDIR-jOj3GclF9XzoOLXdd-x8qly9DGPxG3r8a68Kc9weYPITEDErppLyXsvW-40etWoCgT6OdGbom90AE4YFzn4LAWJpcQBfpild8__SZ-D_rGnt0loMV3k_u9nGoI4iJ33zDn9l1MxuRQXvSxe4H0peBjkS_7-97nFT_fnB4FVO-csAQWLQAG2hDkbd11UNHcXPz0EGEAxBixz7465Yg3mjHd6u4lsK4NRTMHzksGthk93j6I_zOGKb2pEr229W-NIesObUgUuEjGk4ZFDySarG-9tMrxAS75OtKp9YlHyjbni_z3NoSynTd0iZeHCDVa13g3jKd3ucCsD7N7cIjxxXeHLNjL7NPMr6V49Vs9Y5bdkkveeGBF4kOF0eml1Ady6lmbdhPejppkIpGlQ6FMlTPuS7FJ8dUfJ6oC3EvpH0p1im3J65Vi-op57pN4R1yjd2q7U1-oRvGLqiLQIu4jCsySF9IT4aoBMEuNYliWL6JgwqZEmF_y1ndLzfVIWgau6j3fTirwhb1OsKwq4BmdDXGXarh0TNCkyjuDaDxYE4bTv0npKWF5KE93Owg-o7VmuRwo9h2Xn06n3jZkRDZ7Xtebj6RcbCyPMvPBlHIq7ZBOWaMjroeqjOR9TDsDOw8FNg7x70tNftgy4DdQ',
+                    thumbnail_image_url='https://storage.googleapis.com/terry-machine-home/web/images/pic01.jpg',
                     title='選擇服務',
                     text='請選擇',
                     actions=[
@@ -554,13 +554,13 @@ def handle_message(event):
                             uri='https://storage.googleapis.com/terry-machine-home/web/index.html'
                         ),
                         URIAction(
-                            label='Youtube Terry',
+                            label='Youtube Terry頻道',
                             uri='https://www.youtube.com/channel/UCZQL2s7GQEisPHlQRCbOW7g?view_as=subscriber'
                         )
                     ]
                 ),
                 CarouselColumn(
-                    thumbnail_image_url='https://00e9e64bac211ca518172360dc53878abe5d196f93ca370be4-apidata.googleusercontent.com/download/storage/v1/b/terry-machine-home/o/web%2Fimages%2Fpic04.jpg?qk=AD5uMEtP3vXaOWtI6-PW-8_1m1vp2mkydQWbzGEW0mrIiyT3dKHXLR_b7nWxk0K-Ho_wzX_KnboxLqEWydoVC68oItc3bvXvfxRLpjD2ntCx__XjMq8F32Bn3--vCkZPqDnp2OwNmlgWuwocPRZgyoZ41PAPYO-26Wyu7LMAKsVJXjzUztdAk7w9kD5CLZabgfWEAYDnKsqBGWImnDUtNNoPV3VpHlNiAutc9-7cH1v7Tj990WfIBkzlzYYt8XzsJ2kACC8_zokjUgYc93fSW2Ay__PK7ffNR_HOfGqj1AzYkExGXPO19sPbZOh0_LWXinu1wD_qrxe6FBu0ekA7K_W11bHB6GgzGi7g-8nxS3ZH0-BQ5xFMvrhtwYwOC-RTashHHpXt5MIxyym2d05wei1y1pU8hGzdrQUzux-f-ksSe90jhoYuYt7RpzB2UTMq-Kix7wleCQcquaSQa5-_n7bsA3XGdkyGcUdBL2_MR6xooSINZMv_lYzIWXuQDvjapZDsZfNeSI_9pBz0mzmqNwf40d3l1bFRwaMEWClFrLCd73gp6MuBtYV6AhlEQyD2EfOUAEKp4ZHCD-g2q6n3NXW9Hwj9Yn5_vDYT6MUc1Hg7USwULB5LHHXFq69ioL77ayYiYbpLIhAFd2HBAgU4zre6zO6G2nA05QrGHd_HTVCtMDXc2aNhyZF8ysoOO3LkwOeiTCcrmK1kkvZsNOp2JHReTZTvQM3ywp8UytR3J-tFnpXPPXMcK_dLeOahEiuUm86ENzUs3j25Mrl65qp_4ZKDnYkJN3yBHXwY7rVJ-dZio3efNAn_CYs',
+                    thumbnail_image_url='https://storage.googleapis.com/terry-machine-home/web/images/pic04.jpg',
                     title='選擇服務',
                     text='請選擇',
                     actions=[
@@ -579,7 +579,7 @@ def handle_message(event):
                     ]
                 ),
                 CarouselColumn(
-                    thumbnail_image_url='https://00e9e64bac44d7c1b06335d71d03b2e3fa6ed67bf7f0c7fcd0-apidata.googleusercontent.com/download/storage/v1/b/terry-machine-home/o/web%2Fimages%2Fbanner.JPG?qk=AD5uMEunoslITs7Zy3unUskZ2jEBUUgNhQQChcamifsMM8e-o7XyWJbH3smEh0mfDpdH66k5Zpd7aocQ2uz5t2_XT_d2uqqTRlcpuDyv6XGhDUS-oDEqvQOqFb0OHJFHbk868CHDAwuBQR8v2zqZ2I0ci2_jy3Yba9d6yPECFMQL_OrdzcLwV9skLESUu1wJmIAkc2kuJOAzrmRhRhCMnAea2iGKshGHwVmIlavnieiMcZe7XeFyjkPpWjqtGEb5OObQtMV1vBbUPVTtBzFLDnmwXf3xJOdF1fJBq3fcU-qiW56N8EwYFBdRjjDijQfG0EyIuPFm4QOZ_REEFzNLZtfsuM9OimlgpiiZDeePAdMRmHO-4ISYWzgq_MZ_ysm4OV7zWqyvaDvlf1_qnb1YclM9VG7eG1surq-KUOfruOOoeIMthdMgf96VqcUzJzgLTYp7DdzZvwmU_n1jml18oRgLs4Ntz1LUW0XYoSWxIqlE3uTs2Ha3lc2rM5seJtwld9Qi0e9OmCn-C8nGhrzCGfEX0VRPGKl1gWY-vlx7ou98ybI4iJkCnVEIKH1BRhXA1BEPgMR-JJjzwQl7ubj7lMYrcCo_CLJCUvqJmnQptIWYvLyKtAd9aB6QtJVkzEngQkWHZgdlZJV9_0Jfuk6o7tGxbSHvGHMe843Mv10ae7Hq6dq7mu_vaNK7gEQJzmTCyoGqdR0EZ-Pmw00l5nMCPCK_La8JamCMXh5YUlkDkyT0tfjPsalZoE3ftxNpgXHX-Dxsfr7c25Bbwi7hbr0cVVJ4Tol3k8mg7t_Wa7a0Y4olOHWGwTNLSDA',
+                    thumbnail_image_url='https://storage.googleapis.com/terry-machine-home/web/images/banner.JPG',
                     title='選擇服務',
                     text='請選擇',
                     actions=[
@@ -592,8 +592,8 @@ def handle_message(event):
                             uri='https://ptt-beauty-infinite-scroll.herokuapp.com/'
                         ),
                         URIAction(
-                            label='youtube 程式教學分享頻道',
-                            uri='https://www.youtube.com/channel/UCPhn2rCqhu0HdktsFjixahA'
+                            label='氣象局資訊',
+                            uri='https://www.cwb.gov.tw/m/'
                         )
                     ]
                 )
